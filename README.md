@@ -1,5 +1,4 @@
-# Unveiling Water Allocation Dynamics
-## A Text Analysis of 25 Years of Stakeholder Meetings
+# Unveiling Water Allocation Dynamics: A Text Analysis of 25 Years of Stakeholder Meetings
 
 This repository contains the text data analysed in the paper "Unveiling Water Allocation Dynamics: A Text Analysis of 25 Years of Stakeholder Meetings" and provides an interactive visualization of the sentences extracted from the meeting minutes. 
 Features:
